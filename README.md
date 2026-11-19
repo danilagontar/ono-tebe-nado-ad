@@ -1,1 +1,1 @@
-https://github.com/danilagontar/ono-tebe-nado-ad
+https://github.com/Ekd-learning/ono-tebe-nado-ad
